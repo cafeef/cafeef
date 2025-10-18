@@ -10,7 +10,7 @@
 
 <!-- Linha de Skills -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=500&color=001F54&lines=Python+%7C+R+%7C+SQL+%7C+Tableau+%7C+Colab" alt="Typing SVG Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=500&color=0A3D62&lines=Python+%7C+R+%7C+SQL+%7C+Tableau+%7C+Colab" alt="Typing SVG Skills" />
 </h2>
 
 
