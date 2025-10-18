@@ -1,12 +1,18 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAG2JruNrnU/T2NqrjWtRunofGQPvdUHOg/watch?utm_content=DAG2JruNrnU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha8aabe17c0" alt="Banner - Data Science Theme" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/43b68a7c-f399-4305-959f-26526c16a74f" alt="Banner - Data Science Theme" width="100%"/>
 </p>
 
 <!-- 👋 Animated typing intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fernanda+Pacheco+Bento!;Olá%2C+eu+sou+a+Fernanda+Pacheco!;Data+Analysis+%7C+Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=600&color=0A3D62&background=00000000&lines=Hi%2C+I%27m+Fernanda+Pacheco!;Ol%C3%A1%2C+eu+sou+a+Fernanda+Pacheco!" alt="Typing SVG"/>
 </h1>
+
+<!-- Linha de Skills -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=500&color=001F54&lines=Python+%7C+R+%7C+SQL+%7C+Tableau+%7C+Colab" alt="Typing SVG Skills" />
+</h2>
+
 
 ---
 
@@ -40,7 +46,7 @@ A base de dados utilizada foi **gerada com auxílio de inteligência artificial*
 Autores: André Martins da Silva, Fernanda Pacheco Bento e Pedro Silveira Carvalho.  
 
 #### 🛍️ [AnaliseVendas](#)
-Dashboard e relatório de **análise de vendas e performance comercial**, desenvolvido em **Python e Tableau**.  
+Relatório de **análise de vendas e performance comercial**, desenvolvido em **SQL e Google Sheets**.  
 Explora métricas de lucro, volume de vendas e comportamento de clientes.  
 
 ---
@@ -71,7 +77,7 @@ Explora métricas de lucro, volume de vendas e comportamento de clientes.
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cafeef&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cafeef&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
