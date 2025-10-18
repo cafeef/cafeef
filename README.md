@@ -40,12 +40,12 @@ Gosto de transformar dados em informações significativas, explorando visualiza
 
 ### 📊 Featured Projects | Projetos em Destaque
 
-#### 🩺 [UnimedDataIntelligence](#)
+#### 🩺 [UnimedDataIntelligence](https://github.com/cafeef/UnimedDataIntelligence)
 Projeto desenvolvido em um **Hackathon da Unimed**, com foco em **análise preditiva e modelagem de dados de saúde**.  
 A base de dados utilizada foi **gerada com auxílio de inteligência artificial**.  
 Autores: André Martins da Silva, Fernanda Pacheco Bento e Pedro Silveira Carvalho.  
 
-#### 🛍️ [AnaliseVendas](#)
+#### 🛍️ [AnaliseVendas](https://github.com/cafeef/Analise-Vendas)
 Relatório de **análise de vendas e performance comercial**, desenvolvido em **SQL e Google Sheets**.  
 Explora métricas de lucro, volume de vendas e comportamento de clientes.  
 
