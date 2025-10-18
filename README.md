@@ -18,11 +18,10 @@
 
 ### 👩‍💻 About Me | Sobre Mim
 
-🇬🇧 I’m an undergraduate Computer Science student at UTFPR, passionate about **data analysis and data science**.  
-I love turning data into insights through visualization and statistical exploration, combining logic and creativity in my work.  
+🇬🇧 I’m an undergraduate Computer Science student at UTFPR, passionate about **data analysis and data science**. I am currently pursuing the Google Data Analytics Professional Certificate. A book lover, aspiring gamer, and coffee enthusiast, I enjoy solving problems and find comfort in numbers. 
 
-🇧🇷 Sou graduanda em **Ciência da Computação pela UTFPR**, com grande interesse em **análise e ciência de dados**.  
-Gosto de transformar dados em informações significativas, explorando visualizações e padrões com curiosidade e precisão.  
+
+🇧🇷 Sou graduanda em **Ciência da Computação pela UTFPR**, com grande interesse em **análise e ciência de dados**. Atualmente, estou cursando a Certificação Profissional de Análise de Dados da Google. Apaixonada por livros, aspirante a gamer e viciada em café, gosto de solucionar problemas e vejo conforto nos números.  
 
 ---
 
