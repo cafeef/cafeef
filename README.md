@@ -44,9 +44,10 @@ Projeto desenvolvido em um **Hackathon da Unimed**, com foco em **análise predi
 A base de dados utilizada foi **gerada com auxílio de inteligência artificial**.  
 Autores: André Martins da Silva, Fernanda Pacheco Bento e Pedro Silveira Carvalho.  
 
-#### 🛍️ [AnaliseVendas](https://github.com/cafeef/Analise-Vendas)
-Relatório de **análise de vendas e performance comercial**, desenvolvido em **SQL e Google Sheets**.  
-Explora métricas de lucro, volume de vendas e comportamento de clientes.  
+#### 🛍️ [Estudo de Caso Bellabeat](https://github.com/cafeef/EstudoDeCasoBellabeatEmR)
+Análise do consumo de produtos Bellabeat com objetivo de gerar insights para marketing e recomendações para fidelização de clientes. 
+Projeto final para a Certificação Profissional de Análise de Dados da Google.
+Desenvolvido em R, no ambiente do Kaggle.
 
 ---
 
